@@ -1,5 +1,5 @@
 -module(ring2).
--export([start/3, init/3, loop/0]).
+-export([start/3]).
 
 start(M, N, Message) ->
     set_up_ring(N, M, Message, []).
@@ -9,7 +9,7 @@ set_up_ring(N, M, Mex, []) ->
     io:format("First process ~p~n", [self()]),
     set_up_ring(N-1, M, Mex, [self()]);
 set_up_ring(N, M, Mex, Pids) ->
-    Pid = (spawn(?MODULE, init, [N, M, Mex])),
+    Pid = (spawn(fun() -> init(N, M, Mex) end)),
     io:format("~p initiated ~p~n", [self(), Pid]),
     Pid ! {init, [Pid|Pids]}.
 
