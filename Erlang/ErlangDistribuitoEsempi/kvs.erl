@@ -6,7 +6,7 @@ store(Key, Value) -> rpc({store, Key, Value}).
 lookup(Key) -> rpc({lookup, Key}).
 
 rpc(Q) ->
-    {kvs, hd(nodes())} ! {self(), Q},
+    kvs ! {self(), Q},
     receive
        {kvs, Reply} -> Reply
     end.
