@@ -1,12 +1,14 @@
 -module(mm).
 -export([init/2]).
 
-init(Me, Server) ->
+init(Name, Server) ->
     group_leader(whereis(user), self()),
-    io:format("~p started~n", [Me]), loop(Me, Server).
+    io:format("Starting ~p~n", [Name]),
+    loop(Name, Server).
 
-loop(Me, Server) ->
+loop(Name, Server) ->
     receive
-        Any -> io:format("[~p] forwarding ~p~n", [Me, Any]),
-                Server ! {Me, Any}, loop(Me, Server)
+        {half, Half, orig, Orig} ->
+            io:format("Received ~p ~n", [Half]),
+            Server ! {Name, Half, Orig}, loop(Name, Server)
     end.
