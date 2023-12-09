@@ -1,0 +1,16 @@
+{
+  "name": "scala-cli",
+  "argv": [
+    "/home/sam/.local/share/coursier/bin/.scala-cli.aux",
+    "bsp",
+    "--json-options",
+    "/home/sam/Desktop/LinguaggiDiProg/Scala/EsempiLezioni/.scala-build/ide-options-v2.json",
+    "/home/sam/Desktop/LinguaggiDiProg/Scala/EsempiLezioni"
+  ],
+  "version": "1.1.0",
+  "bspVersion": "2.1.0-M7",
+  "languages": [
+    "scala",
+    "java"
+  ]
+}
