@@ -1,0 +1,9 @@
+[0m[[0m[31merror[0m] [0m[0m/home/sam/Desktop/LinguaggiDiProg/Scala/EserciziAvanzati/1/src/main/scala/CalcParserComb.scala:19:37: value unary_- is not a member of CalcParserComb.this.Parser[Double][0m
+[0m[[0m[31merror[0m] [0m[0m                ( "-" ~> term ) ^^ {-term} |[0m
+[0m[[0m[31merror[0m] [0m[0m                                    ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/sam/Desktop/LinguaggiDiProg/Scala/EserciziAvanzati/1/src/main/scala/CalcParserComb.scala:20:37: type mismatch;[0m
+[0m[[0m[31merror[0m] [0m[0m found   : CalcParserComb.this.Parser[Double][0m
+[0m[[0m[31merror[0m] [0m[0m required: Double => ?[0m
+[0m[[0m[31merror[0m] [0m[0m                ( "+" ~> term ) ^^ {term}[0m
+[0m[[0m[31merror[0m] [0m[0m                                    ^[0m
+[0m[[0m[31merror[0m] [0m[0mtwo errors found[0m
