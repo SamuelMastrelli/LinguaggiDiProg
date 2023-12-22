@@ -1,0 +1,6 @@
+[0m[[0m[31merror[0m] [0m[0m/home/sam/Desktop/LinguaggiDiProg/Scala/EserciziAvanzati/2/src/main/scala/ElementaryOp.scala:17:121: type mismatch;[0m
+[0m[[0m[31merror[0m] [0m[0m found   : ElementaryOpParser.this.Parser[AnyVal][0m
+[0m[[0m[31merror[0m] [0m[0m required: ElementaryOpParser.this.Parser[Int][0m
+[0m[[0m[31merror[0m] [0m[0m    def term: Parser[Int] = (number ~ op) ^^ {case n ~ newOp => cumulativeRes=lastOp(cumulativeRes, n); lastOp = newOp} | [0m
+[0m[[0m[31merror[0m] [0m[0m                                                                                                                        ^[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m
