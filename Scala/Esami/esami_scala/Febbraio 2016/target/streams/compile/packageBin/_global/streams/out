@@ -1,0 +1,11 @@
+[0m[[0m[0mdebug[0m] [0m[0mPackaging /home/sam/Desktop/LinguaggiDiProg/Scala/Esami/esami_scala/Febbraio 2016/target/scala-2.13/febbraio-2016_2.13-0.1.0-SNAPSHOT.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ArithmeticParser.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/sam/Desktop/LinguaggiDiProg/Scala/Esami/esami_scala/Febbraio 2016/target/scala-2.13/classes/ArithmeticParser.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ArithmeticParser$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/sam/Desktop/LinguaggiDiProg/Scala/Esami/esami_scala/Febbraio 2016/target/scala-2.13/classes/ArithmeticParser$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	StepByStepEvaluator$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/sam/Desktop/LinguaggiDiProg/Scala/Esami/esami_scala/Febbraio 2016/target/scala-2.13/classes/StepByStepEvaluator$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	StepByStepEvaluator.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/sam/Desktop/LinguaggiDiProg/Scala/Esami/esami_scala/Febbraio 2016/target/scala-2.13/classes/StepByStepEvaluator.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m

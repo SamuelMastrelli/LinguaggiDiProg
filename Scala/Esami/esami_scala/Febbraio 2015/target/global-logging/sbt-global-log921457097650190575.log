@@ -1,0 +1,23 @@
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(run "print x+y+z+1+x+-3 where x = 25, y = 1, z=-7", Some(3e427590-d99f-408f-a02f-2efc09fe0e12), Some(CommandSource(console0)))[0m
+[0m[[0m[0mdebug[0m] [0m[0mEvaluating tasks: Compile / run[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning task... Cancel: Signal, check cycles: false, forcegc: true[0m
+[0m[[0m[0minfo[0m] [0m[0mcompiling 1 Scala source to /home/sam/Desktop/LinguaggiDiProg/Scala/Esami/esami_scala/Febbraio 2015/target/scala-2.13/classes ...[0m
+[0m[[0m[31merror[0m] [0m[0m/home/sam/Desktop/LinguaggiDiProg/Scala/Esami/esami_scala/Febbraio 2015/src/main/scala/Desk.scala:16:45: value x is not a member of DeskParser.Parser[() => Int][0m
+[0m[[0m[31merror[0m] [0m[0mpossible cause: maybe a semicolon is missing before `value x`?[0m
+[0m[[0m[31merror[0m] [0m[0m        {case f1 ~ f2 => () => f1() + f2()} x | num)[0m
+[0m[[0m[31merror[0m] [0m[0m                                            ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/sam/Desktop/LinguaggiDiProg/Scala/Esami/esami_scala/Febbraio 2015/src/main/scala/Desk.scala:16:47: not found: value |[0m
+[0m[[0m[31merror[0m] [0m[0m        {case f1 ~ f2 => () => f1() + f2()} x | num)[0m
+[0m[[0m[31merror[0m] [0m[0m                                              ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/sam/Desktop/LinguaggiDiProg/Scala/Esami/esami_scala/Febbraio 2015/src/main/scala/Desk.scala:16:49: postfix operator num needs to be enabled[0m
+[0m[[0m[31merror[0m] [0m[0mby making the implicit value scala.language.postfixOps visible.[0m
+[0m[[0m[31merror[0m] [0m[0mThis can be achieved by adding the import clause 'import scala.language.postfixOps'[0m
+[0m[[0m[31merror[0m] [0m[0mor by setting the compiler option -language:postfixOps.[0m
+[0m[[0m[31merror[0m] [0m[0mSee the Scaladoc for value scala.language.postfixOps for a discussion[0m
+[0m[[0m[31merror[0m] [0m[0mwhy the feature needs to be explicitly enabled.[0m
+[0m[[0m[31merror[0m] [0m[0m        {case f1 ~ f2 => () => f1() + f2()} x | num)[0m
+[0m[[0m[31merror[0m] [0m[0m                                                ^[0m
+[0m[[0m[31merror[0m] [0m[0mthree errors found[0m
+[0m[[0m[31merror[0m] [0m[0m(Compile / [31mcompileIncremental[0m) Compilation failed[0m
+[0m[[0m[31merror[0m] [0m[0mTotal time: 0 s, completed Dec 29, 2023, 9:04:52 PM[0m
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(shell, None, None)[0m

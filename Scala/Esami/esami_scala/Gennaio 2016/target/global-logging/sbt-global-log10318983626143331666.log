@@ -1,0 +1,89 @@
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(run test.ll, Some(ccf41a76-bcef-490d-a631-2c32cf091cfb), Some(CommandSource(console0)))[0m
+[0m[[0m[0mdebug[0m] [0m[0mEvaluating tasks: Compile / run[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning task... Cancel: Signal, check cycles: false, forcegc: true[0m
+[0m[[0m[0minfo[0m] [0m[0mcompiling 1 Scala source to /home/sam/Desktop/LinguaggiDiProg/Scala/Esami/esami_scala/Gennaio 2016/target/scala-2.13/classes ...[0m
+[0m[[0m[31merror[0m] [0m[0mjava.util.regex.PatternSyntaxException: Unclosed character class near index 2[0m
+[0m[[0m[31merror[0m] [0m[0m[\[0m
+[0m[[0m[31merror[0m] [0m[0m	at java.base/java.util.regex.Pattern.error(Pattern.java:2028)[0m
+[0m[[0m[31merror[0m] [0m[0m	at java.base/java.util.regex.Pattern.clazz(Pattern.java:2690)[0m
+[0m[[0m[31merror[0m] [0m[0m	at java.base/java.util.regex.Pattern.sequence(Pattern.java:2139)[0m
+[0m[[0m[31merror[0m] [0m[0m	at java.base/java.util.regex.Pattern.expr(Pattern.java:2069)[0m
+[0m[[0m[31merror[0m] [0m[0m	at java.base/java.util.regex.Pattern.compile(Pattern.java:1783)[0m
+[0m[[0m[31merror[0m] [0m[0m	at java.base/java.util.regex.Pattern.<init>(Pattern.java:1430)[0m
+[0m[[0m[31merror[0m] [0m[0m	at java.base/java.util.regex.Pattern.compile(Pattern.java:1069)[0m
+[0m[[0m[31merror[0m] [0m[0m	at scala.util.matching.Regex.<init>(Regex.scala:234)[0m
+[0m[[0m[31merror[0m] [0m[0m	at scala.collection.StringOps$.r$extension(StringOps.scala:852)[0m
+[0m[[0m[31merror[0m] [0m[0m	at LogLangParser$.fileName(LogLangEvaluator.scala:73)[0m
+[0m[[0m[31merror[0m] [0m[0m	at LogLangParser$.$anonfun$operation$1(LogLangEvaluator.scala:68)[0m
+[0m[[0m[31merror[0m] [0m[0m	at scala.util.parsing.combinator.Parsers$Parser.p$lzycompute$3(Parsers.scala:318)[0m
+[0m[[0m[31merror[0m] [0m[0m	at scala.util.parsing.combinator.Parsers$Parser.p$4(Parsers.scala:318)[0m
+[0m[[0m[31merror[0m] [0m[0m	at scala.util.parsing.combinator.Parsers$Parser.$anonfun$$tilde$greater$1(Parsers.scala:319)[0m
+[0m[[0m[31merror[0m] [0m[0m	at scala.util.parsing.combinator.Parsers$Success.flatMapWithNext(Parsers.scala:143)[0m
+[0m[[0m[31merror[0m] [0m[0m	at scala.util.parsing.combinator.Parsers$Parser.$anonfun$flatMap$1(Parsers.scala:275)[0m
+[0m[[0m[31merror[0m] [0m[0m	at scala.util.parsing.combinator.Parsers$$anon$1.apply(Parsers.scala:245)[0m
+[0m[[0m[31merror[0m] [0m[0m	at scala.util.parsing.combinator.Parsers$Parser.$anonfun$map$1(Parsers.scala:278)[0m
+[0m[[0m[31merror[0m] [0m[0m	at scala.util.parsing.combinator.Parsers$$anon$1.apply(Parsers.scala:245)[0m
+[0m[[0m[31merror[0m] [0m[0m	at scala.util.parsing.combinator.Parsers$Parser.$anonfun$append$1(Parsers.scala:289)[0m
+[0m[[0m[31merror[0m] [0m[0m	at scala.util.parsing.combinator.Parsers$$anon$1.apply(Parsers.scala:245)[0m
+[0m[[0m[31merror[0m] [0m[0m	at scala.util.parsing.combinator.Parsers$Parser.$anonfun$append$1(Parsers.scala:289)[0m
+[0m[[0m[31merror[0m] [0m[0m	at scala.util.parsing.combinator.Parsers$$anon$1.apply(Parsers.scala:245)[0m
+[0m[[0m[31merror[0m] [0m[0m	at scala.util.parsing.combinator.Parsers$Parser.$anonfun$append$1(Parsers.scala:289)[0m
+[0m[[0m[31merror[0m] [0m[0m	at scala.util.parsing.combinator.Parsers$$anon$1.apply(Parsers.scala:245)[0m
+[0m[[0m[31merror[0m] [0m[0m	at scala.util.parsing.combinator.Parsers.$anonfun$rep1$1(Parsers.scala:807)[0m
+[0m[[0m[31merror[0m] [0m[0m	at scala.util.parsing.combinator.Parsers$$anon$1.apply(Parsers.scala:245)[0m
+[0m[[0m[31merror[0m] [0m[0m	at scala.util.parsing.combinator.Parsers$Parser.$anonfun$append$1(Parsers.scala:289)[0m
+[0m[[0m[31merror[0m] [0m[0m	at scala.util.parsing.combinator.Parsers$$anon$1.apply(Parsers.scala:245)[0m
+[0m[[0m[31merror[0m] [0m[0m	at scala.util.parsing.combinator.Parsers$Parser.$anonfun$map$1(Parsers.scala:278)[0m
+[0m[[0m[31merror[0m] [0m[0m	at scala.util.parsing.combinator.Parsers$$anon$1.apply(Parsers.scala:245)[0m
+[0m[[0m[31merror[0m] [0m[0m	at scala.util.parsing.combinator.Parsers$$anon$1.apply(Parsers.scala:245)[0m
+[0m[[0m[31merror[0m] [0m[0m	at scala.util.parsing.combinator.Parsers$Success.flatMapWithNext(Parsers.scala:143)[0m
+[0m[[0m[31merror[0m] [0m[0m	at scala.util.parsing.combinator.Parsers$Parser.$anonfun$flatMap$1(Parsers.scala:275)[0m
+[0m[[0m[31merror[0m] [0m[0m	at scala.util.parsing.combinator.Parsers$$anon$1.apply(Parsers.scala:245)[0m
+[0m[[0m[31merror[0m] [0m[0m	at scala.util.parsing.combinator.Parsers$Parser.$anonfun$flatMap$1(Parsers.scala:275)[0m
+[0m[[0m[31merror[0m] [0m[0m	at scala.util.parsing.combinator.Parsers$$anon$1.apply(Parsers.scala:245)[0m
+[0m[[0m[31merror[0m] [0m[0m	at scala.util.parsing.combinator.Parsers$Parser.$anonfun$map$1(Parsers.scala:278)[0m
+[0m[[0m[31merror[0m] [0m[0m	at scala.util.parsing.combinator.Parsers$$anon$1.apply(Parsers.scala:245)[0m
+[0m[[0m[31merror[0m] [0m[0m	at scala.util.parsing.combinator.Parsers$$anon$1.apply(Parsers.scala:245)[0m
+[0m[[0m[31merror[0m] [0m[0m	at scala.util.parsing.combinator.Parsers$Success.flatMapWithNext(Parsers.scala:143)[0m
+[0m[[0m[31merror[0m] [0m[0m	at scala.util.parsing.combinator.Parsers$Parser.$anonfun$flatMap$1(Parsers.scala:275)[0m
+[0m[[0m[31merror[0m] [0m[0m	at scala.util.parsing.combinator.Parsers$$anon$1.apply(Parsers.scala:245)[0m
+[0m[[0m[31merror[0m] [0m[0m	at scala.util.parsing.combinator.Parsers$Parser.$anonfun$map$1(Parsers.scala:278)[0m
+[0m[[0m[31merror[0m] [0m[0m	at scala.util.parsing.combinator.Parsers$$anon$1.apply(Parsers.scala:245)[0m
+[0m[[0m[31merror[0m] [0m[0m	at scala.util.parsing.combinator.Parsers.$anonfun$rep1$1(Parsers.scala:807)[0m
+[0m[[0m[31merror[0m] [0m[0m	at scala.util.parsing.combinator.Parsers$$anon$1.apply(Parsers.scala:245)[0m
+[0m[[0m[31merror[0m] [0m[0m	at scala.util.parsing.combinator.Parsers$Parser.$anonfun$append$1(Parsers.scala:289)[0m
+[0m[[0m[31merror[0m] [0m[0m	at scala.util.parsing.combinator.Parsers$$anon$1.apply(Parsers.scala:245)[0m
+[0m[[0m[31merror[0m] [0m[0m	at scala.util.parsing.combinator.Parsers$Parser.$anonfun$map$1(Parsers.scala:278)[0m
+[0m[[0m[31merror[0m] [0m[0m	at scala.util.parsing.combinator.Parsers$$anon$1.apply(Parsers.scala:245)[0m
+[0m[[0m[31merror[0m] [0m[0m	at scala.util.parsing.combinator.Parsers$Parser.$anonfun$flatMap$1(Parsers.scala:275)[0m
+[0m[[0m[31merror[0m] [0m[0m	at scala.util.parsing.combinator.Parsers$$anon$1.apply(Parsers.scala:245)[0m
+[0m[[0m[31merror[0m] [0m[0m	at scala.util.parsing.combinator.Parsers$$anon$6.apply(Parsers.scala:997)[0m
+[0m[[0m[31merror[0m] [0m[0m	at scala.util.parsing.combinator.RegexParsers.parse(RegexParsers.scala:178)[0m
+[0m[[0m[31merror[0m] [0m[0m	at scala.util.parsing.combinator.RegexParsers.parse$(RegexParsers.scala:177)[0m
+[0m[[0m[31merror[0m] [0m[0m	at LogLangParser$.parse(LogLangEvaluator.scala:59)[0m
+[0m[[0m[31merror[0m] [0m[0m	at scala.util.parsing.combinator.RegexParsers.parseAll(RegexParsers.scala:194)[0m
+[0m[[0m[31merror[0m] [0m[0m	at scala.util.parsing.combinator.RegexParsers.parseAll$(RegexParsers.scala:193)[0m
+[0m[[0m[31merror[0m] [0m[0m	at LogLangParser$.parseAll(LogLangEvaluator.scala:59)[0m
+[0m[[0m[31merror[0m] [0m[0m	at Main$.main(LogLangEvaluator.scala:79)[0m
+[0m[[0m[31merror[0m] [0m[0m	at Main.main(LogLangEvaluator.scala)[0m
+[0m[[0m[31merror[0m] [0m[0m	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)[0m
+[0m[[0m[31merror[0m] [0m[0m	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)[0m
+[0m[[0m[31merror[0m] [0m[0m	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)[0m
+[0m[[0m[31merror[0m] [0m[0m	at java.base/java.lang.reflect.Method.invoke(Method.java:568)[0m
+[0m[[0m[31merror[0m] [0m[0m	at sbt.Run.invokeMain(Run.scala:144)[0m
+[0m[[0m[31merror[0m] [0m[0m	at sbt.Run.execute$1(Run.scala:94)[0m
+[0m[[0m[31merror[0m] [0m[0m	at sbt.Run.$anonfun$runWithLoader$5(Run.scala:121)[0m
+[0m[[0m[31merror[0m] [0m[0m	at sbt.Run$.executeSuccess(Run.scala:187)[0m
+[0m[[0m[31merror[0m] [0m[0m	at sbt.Run.runWithLoader(Run.scala:121)[0m
+[0m[[0m[31merror[0m] [0m[0m	at sbt.Defaults$.$anonfun$bgRunTask$6(Defaults.scala:1988)[0m
+[0m[[0m[31merror[0m] [0m[0m	at sbt.Defaults$.$anonfun$termWrapper$2(Defaults.scala:1927)[0m
+[0m[[0m[31merror[0m] [0m[0m	at scala.runtime.java8.JFunction0$mcV$sp.apply(JFunction0$mcV$sp.java:23)[0m
+[0m[[0m[31merror[0m] [0m[0m	at scala.util.Try$.apply(Try.scala:213)[0m
+[0m[[0m[31merror[0m] [0m[0m	at sbt.internal.BackgroundThreadPool$BackgroundRunnable.run(DefaultBackgroundJobService.scala:367)[0m
+[0m[[0m[31merror[0m] [0m[0m	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)[0m
+[0m[[0m[31merror[0m] [0m[0m	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)[0m
+[0m[[0m[31merror[0m] [0m[0m	at java.base/java.lang.Thread.run(Thread.java:840)[0m
+[0m[[0m[31merror[0m] [0m[0m(Compile / [31mrun[0m) java.util.regex.PatternSyntaxException: Unclosed character class near index 2[0m
+[0m[[0m[31merror[0m] [0m[0m[\[0m
+[0m[[0m[31merror[0m] [0m[0mTotal time: 1 s, completed Jan 3, 2024, 12:50:11 PM[0m
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(shell, None, None)[0m

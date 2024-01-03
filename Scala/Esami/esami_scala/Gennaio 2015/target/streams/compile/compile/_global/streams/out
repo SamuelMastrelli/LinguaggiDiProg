@@ -1,0 +1,8 @@
+[0m[[0m[31merror[0m] [0m[0m/home/sam/Desktop/LinguaggiDiProg/Scala/Esami/esami_scala/Gennaio 2015/src/main/scala/CSVparserCLI.scala:20:9: overloaded method parseAll with alternatives:[0m
+[0m[[0m[31merror[0m] [0m[0m  [T](p: CSVparser.Parser[T], in: CharSequence): CSVparser.ParseResult[T] <and>[0m
+[0m[[0m[31merror[0m] [0m[0m  [T](p: CSVparser.Parser[T], in: java.io.Reader): CSVparser.ParseResult[T] <and>[0m
+[0m[[0m[31merror[0m] [0m[0m  [T](p: CSVparser.Parser[T], in: scala.util.parsing.input.Reader[Char]): CSVparser.ParseResult[T][0m
+[0m[[0m[31merror[0m] [0m[0m cannot be applied to (CSVparser.Parser[Unit], Array[String])[0m
+[0m[[0m[31merror[0m] [0m[0m        parseAll(entry, l.slice(1, l.length))[0m
+[0m[[0m[31merror[0m] [0m[0m        ^[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m

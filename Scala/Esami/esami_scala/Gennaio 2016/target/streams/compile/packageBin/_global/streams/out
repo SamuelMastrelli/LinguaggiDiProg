@@ -1,0 +1,41 @@
+[0m[[0m[0mdebug[0m] [0m[0mPackaging /home/sam/Desktop/LinguaggiDiProg/Scala/Esami/esami_scala/Gennaio 2016/target/scala-2.13/gennaio-2016_2.13-0.1.0-SNAPSHOT.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Backup.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/sam/Desktop/LinguaggiDiProg/Scala/Esami/esami_scala/Gennaio 2016/target/scala-2.13/classes/Backup.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Rename$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/sam/Desktop/LinguaggiDiProg/Scala/Esami/esami_scala/Gennaio 2016/target/scala-2.13/classes/Rename$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Merge.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/sam/Desktop/LinguaggiDiProg/Scala/Esami/esami_scala/Gennaio 2016/target/scala-2.13/classes/Merge.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Task$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/sam/Desktop/LinguaggiDiProg/Scala/Esami/esami_scala/Gennaio 2016/target/scala-2.13/classes/Task$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Command.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/sam/Desktop/LinguaggiDiProg/Scala/Esami/esami_scala/Gennaio 2016/target/scala-2.13/classes/Command.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Backup$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/sam/Desktop/LinguaggiDiProg/Scala/Esami/esami_scala/Gennaio 2016/target/scala-2.13/classes/Backup$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Remove$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/sam/Desktop/LinguaggiDiProg/Scala/Esami/esami_scala/Gennaio 2016/target/scala-2.13/classes/Remove$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	LogLangInterpreter.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/sam/Desktop/LinguaggiDiProg/Scala/Esami/esami_scala/Gennaio 2016/target/scala-2.13/classes/LogLangInterpreter.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Remove.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/sam/Desktop/LinguaggiDiProg/Scala/Esami/esami_scala/Gennaio 2016/target/scala-2.13/classes/Remove.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Task.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/sam/Desktop/LinguaggiDiProg/Scala/Esami/esami_scala/Gennaio 2016/target/scala-2.13/classes/Task.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	LogLangInterpreter$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/sam/Desktop/LinguaggiDiProg/Scala/Esami/esami_scala/Gennaio 2016/target/scala-2.13/classes/LogLangInterpreter$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Main.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/sam/Desktop/LinguaggiDiProg/Scala/Esami/esami_scala/Gennaio 2016/target/scala-2.13/classes/Main.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	LogLangParser$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/sam/Desktop/LinguaggiDiProg/Scala/Esami/esami_scala/Gennaio 2016/target/scala-2.13/classes/LogLangParser$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Rename.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/sam/Desktop/LinguaggiDiProg/Scala/Esami/esami_scala/Gennaio 2016/target/scala-2.13/classes/Rename.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Program$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/sam/Desktop/LinguaggiDiProg/Scala/Esami/esami_scala/Gennaio 2016/target/scala-2.13/classes/Program$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Merge$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/sam/Desktop/LinguaggiDiProg/Scala/Esami/esami_scala/Gennaio 2016/target/scala-2.13/classes/Merge$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Main$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/sam/Desktop/LinguaggiDiProg/Scala/Esami/esami_scala/Gennaio 2016/target/scala-2.13/classes/Main$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Program.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/sam/Desktop/LinguaggiDiProg/Scala/Esami/esami_scala/Gennaio 2016/target/scala-2.13/classes/Program.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	LogLangParser.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/sam/Desktop/LinguaggiDiProg/Scala/Esami/esami_scala/Gennaio 2016/target/scala-2.13/classes/LogLangParser.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m
