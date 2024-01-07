@@ -1,0 +1,5 @@
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(run print-10.arnoldc, Some(72c41b66-ede4-4199-95cf-23ca5ae8b118), Some(CommandSource(console0)))[0m
+[0m[[0m[0mdebug[0m] [0m[0mEvaluating tasks: Compile / run[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning task... Cancel: Signal, check cycles: false, forcegc: true[0m
+[0m[[0m[0minfo[0m] [0m[0mcompiling 1 Scala source to /home/sam/Desktop/LinguaggiDiProg/Scala/Esami/esami_scala/Giugno 2016/target/scala-2.13/classes ...[0m
+[0m[[0m[0minfo[0m] [0m[0mshutting down sbt server[0m

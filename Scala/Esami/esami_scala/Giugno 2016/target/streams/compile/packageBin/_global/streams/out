@@ -1,0 +1,75 @@
+[0m[[0m[0mdebug[0m] [0m[0mPackaging /home/sam/Desktop/LinguaggiDiProg/Scala/Esami/esami_scala/Giugno 2016/target/scala-2.13/giugno-2016_2.13-0.1.0-SNAPSHOT.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ArnoldCInterpreter$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/sam/Desktop/LinguaggiDiProg/Scala/Esami/esami_scala/Giugno 2016/target/scala-2.13/classes/ArnoldCInterpreter$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Conditional$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/sam/Desktop/LinguaggiDiProg/Scala/Esami/esami_scala/Giugno 2016/target/scala-2.13/classes/Conditional$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Plus$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/sam/Desktop/LinguaggiDiProg/Scala/Esami/esami_scala/Giugno 2016/target/scala-2.13/classes/Plus$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Equal.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/sam/Desktop/LinguaggiDiProg/Scala/Esami/esami_scala/Giugno 2016/target/scala-2.13/classes/Equal.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ArnoldCParser.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/sam/Desktop/LinguaggiDiProg/Scala/Esami/esami_scala/Giugno 2016/target/scala-2.13/classes/ArnoldCParser.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	VariableDeclaration.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/sam/Desktop/LinguaggiDiProg/Scala/Esami/esami_scala/Giugno 2016/target/scala-2.13/classes/VariableDeclaration.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Loop.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/sam/Desktop/LinguaggiDiProg/Scala/Esami/esami_scala/Giugno 2016/target/scala-2.13/classes/Loop.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Plus.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/sam/Desktop/LinguaggiDiProg/Scala/Esami/esami_scala/Giugno 2016/target/scala-2.13/classes/Plus.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Command.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/sam/Desktop/LinguaggiDiProg/Scala/Esami/esami_scala/Giugno 2016/target/scala-2.13/classes/Command.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Times.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/sam/Desktop/LinguaggiDiProg/Scala/Esami/esami_scala/Giugno 2016/target/scala-2.13/classes/Times.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Conditional.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/sam/Desktop/LinguaggiDiProg/Scala/Esami/esami_scala/Giugno 2016/target/scala-2.13/classes/Conditional.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ArnoldCParser$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/sam/Desktop/LinguaggiDiProg/Scala/Esami/esami_scala/Giugno 2016/target/scala-2.13/classes/ArnoldCParser$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Times$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/sam/Desktop/LinguaggiDiProg/Scala/Esami/esami_scala/Giugno 2016/target/scala-2.13/classes/Times$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Equal$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/sam/Desktop/LinguaggiDiProg/Scala/Esami/esami_scala/Giugno 2016/target/scala-2.13/classes/Equal$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Loop$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/sam/Desktop/LinguaggiDiProg/Scala/Esami/esami_scala/Giugno 2016/target/scala-2.13/classes/Loop$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Or.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/sam/Desktop/LinguaggiDiProg/Scala/Esami/esami_scala/Giugno 2016/target/scala-2.13/classes/Or.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Print.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/sam/Desktop/LinguaggiDiProg/Scala/Esami/esami_scala/Giugno 2016/target/scala-2.13/classes/Print.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Print$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/sam/Desktop/LinguaggiDiProg/Scala/Esami/esami_scala/Giugno 2016/target/scala-2.13/classes/Print$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Operation.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/sam/Desktop/LinguaggiDiProg/Scala/Esami/esami_scala/Giugno 2016/target/scala-2.13/classes/Operation.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Main.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/sam/Desktop/LinguaggiDiProg/Scala/Esami/esami_scala/Giugno 2016/target/scala-2.13/classes/Main.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	And$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/sam/Desktop/LinguaggiDiProg/Scala/Esami/esami_scala/Giugno 2016/target/scala-2.13/classes/And$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Or$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/sam/Desktop/LinguaggiDiProg/Scala/Esami/esami_scala/Giugno 2016/target/scala-2.13/classes/Or$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Minus$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/sam/Desktop/LinguaggiDiProg/Scala/Esami/esami_scala/Giugno 2016/target/scala-2.13/classes/Minus$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Program$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/sam/Desktop/LinguaggiDiProg/Scala/Esami/esami_scala/Giugno 2016/target/scala-2.13/classes/Program$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	MoreThan.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/sam/Desktop/LinguaggiDiProg/Scala/Esami/esami_scala/Giugno 2016/target/scala-2.13/classes/MoreThan.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	And.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/sam/Desktop/LinguaggiDiProg/Scala/Esami/esami_scala/Giugno 2016/target/scala-2.13/classes/And.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	MoreThan$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/sam/Desktop/LinguaggiDiProg/Scala/Esami/esami_scala/Giugno 2016/target/scala-2.13/classes/MoreThan$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Main$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/sam/Desktop/LinguaggiDiProg/Scala/Esami/esami_scala/Giugno 2016/target/scala-2.13/classes/Main$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Divide.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/sam/Desktop/LinguaggiDiProg/Scala/Esami/esami_scala/Giugno 2016/target/scala-2.13/classes/Divide.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Assignment$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/sam/Desktop/LinguaggiDiProg/Scala/Esami/esami_scala/Giugno 2016/target/scala-2.13/classes/Assignment$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Assignment.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/sam/Desktop/LinguaggiDiProg/Scala/Esami/esami_scala/Giugno 2016/target/scala-2.13/classes/Assignment.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	VariableDeclaration$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/sam/Desktop/LinguaggiDiProg/Scala/Esami/esami_scala/Giugno 2016/target/scala-2.13/classes/VariableDeclaration$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ArnoldCInterpreter.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/sam/Desktop/LinguaggiDiProg/Scala/Esami/esami_scala/Giugno 2016/target/scala-2.13/classes/ArnoldCInterpreter.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Program.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/sam/Desktop/LinguaggiDiProg/Scala/Esami/esami_scala/Giugno 2016/target/scala-2.13/classes/Program.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Minus.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/sam/Desktop/LinguaggiDiProg/Scala/Esami/esami_scala/Giugno 2016/target/scala-2.13/classes/Minus.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Divide$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/sam/Desktop/LinguaggiDiProg/Scala/Esami/esami_scala/Giugno 2016/target/scala-2.13/classes/Divide$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m

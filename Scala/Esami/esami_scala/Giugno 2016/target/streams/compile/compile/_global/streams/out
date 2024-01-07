@@ -1,0 +1,28 @@
+[0m[[0m[31merror[0m] [0m[0m/home/sam/Desktop/LinguaggiDiProg/Scala/Esami/esami_scala/Giugno 2016/src/main/scala/ArnoldCEvaluator.scala:129:54: not found: value variable[0m
+[0m[[0m[31merror[0m] [0m[0m    def declaration = "HEY"~>"CHRISTMAS"~>"TREE" ~> (variable <~ "YOU"<~"SET"<~"US"<~"UP") ~ decimalNumber ^^ {case v ~ value => VariableDeclaration(v, value.toInt)}[0m
+[0m[[0m[31merror[0m] [0m[0m                                                     ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/sam/Desktop/LinguaggiDiProg/Scala/Esami/esami_scala/Giugno 2016/src/main/scala/ArnoldCEvaluator.scala:129:150: type mismatch;[0m
+[0m[[0m[31merror[0m] [0m[0m found   : Any[0m
+[0m[[0m[31merror[0m] [0m[0m required: String[0m
+[0m[[0m[31merror[0m] [0m[0m    def declaration = "HEY"~>"CHRISTMAS"~>"TREE" ~> (variable <~ "YOU"<~"SET"<~"US"<~"UP") ~ decimalNumber ^^ {case v ~ value => VariableDeclaration(v, value.toInt)}[0m
+[0m[[0m[31merror[0m] [0m[0m                                                                                                                                                     ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/sam/Desktop/LinguaggiDiProg/Scala/Esami/esami_scala/Giugno 2016/src/main/scala/ArnoldCEvaluator.scala:129:159: value toInt is not a member of Any[0m
+[0m[[0m[31merror[0m] [0m[0m    def declaration = "HEY"~>"CHRISTMAS"~>"TREE" ~> (variable <~ "YOU"<~"SET"<~"US"<~"UP") ~ decimalNumber ^^ {case v ~ value => VariableDeclaration(v, value.toInt)}[0m
+[0m[[0m[31merror[0m] [0m[0m                                                                                                                                                              ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/sam/Desktop/LinguaggiDiProg/Scala/Esami/esami_scala/Giugno 2016/src/main/scala/ArnoldCEvaluator.scala:130:56: not found: value variable[0m
+[0m[[0m[31merror[0m] [0m[0m    def assignment = "GET"~>"TO"~>"THE"~>"CHOPPER" ~> (variable <~ "HERE"<~"IS"<~"MY"<~"INVITATION") ~[0m
+[0m[[0m[31merror[0m] [0m[0m                                                       ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/sam/Desktop/LinguaggiDiProg/Scala/Esami/esami_scala/Giugno 2016/src/main/scala/ArnoldCEvaluator.scala:131:37: not found: value variable[0m
+[0m[[0m[31merror[0m] [0m[0m                     (decimalNumber|variable) ~ rep(operation)  <~ "ENOUGH" <~ "TALK" ^^ {case v ~ n ~ l => Assignment(v, n.toString, l)}[0m
+[0m[[0m[31merror[0m] [0m[0m                                    ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/sam/Desktop/LinguaggiDiProg/Scala/Esami/esami_scala/Giugno 2016/src/main/scala/ArnoldCEvaluator.scala:131:120: type mismatch;[0m
+[0m[[0m[31merror[0m] [0m[0m found   : Any[0m
+[0m[[0m[31merror[0m] [0m[0m required: String[0m
+[0m[[0m[31merror[0m] [0m[0m                     (decimalNumber|variable) ~ rep(operation)  <~ "ENOUGH" <~ "TALK" ^^ {case v ~ n ~ l => Assignment(v, n.toString, l)}[0m
+[0m[[0m[31merror[0m] [0m[0m                                                                                                                       ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/sam/Desktop/LinguaggiDiProg/Scala/Esami/esami_scala/Giugno 2016/src/main/scala/ArnoldCEvaluator.scala:131:135: type mismatch;[0m
+[0m[[0m[31merror[0m] [0m[0m found   : Any[0m
+[0m[[0m[31merror[0m] [0m[0m required: List[Command][0m
+[0m[[0m[31merror[0m] [0m[0m                     (decimalNumber|variable) ~ rep(operation)  <~ "ENOUGH" <~ "TALK" ^^ {case v ~ n ~ l => Assignment(v, n.toString, l)}[0m
+[0m[[0m[31merror[0m] [0m[0m                                                                                                                                      ^[0m
+[0m[[0m[31merror[0m] [0m[0m7 errors found[0m
